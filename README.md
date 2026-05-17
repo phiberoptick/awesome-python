@@ -1,6 +1,8 @@
 # [Awesome Python](https://awesome-python.com/)
 
-An opinionated guide to the best Python frameworks, libraries, tools, and resources. Use the [website](https://awesome-python.com/) to search and filter projects more easily.
+An opinionated guide to the best Python frameworks, libraries, tools, and resources.
+
+**Visit the [website](https://awesome-python.com/) to search and filter projects more easily.**
 
 ## **Sponsors**
 
